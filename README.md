@@ -1,6 +1,7 @@
 <h1 align="center">Liquidity Index <img src="Images/liquidity.png" width="60" align="center"></h1>
 <p align="center">  
-    <img alt="License: MIT" src="https://img.shields.io/pypi/pyversions/pandas" target="_blank" />
+    <img alt="progress" src="https://img.shields.io/badge/Model-In%20progress-orange" target="_blank" />
+    <img alt="python" src="https://img.shields.io/pypi/pyversions/pandas" target="_blank" />
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-brightgreen.svg" target="_blank" />
   </a>
   <a href="https://twitter.com/plutus21cap">
